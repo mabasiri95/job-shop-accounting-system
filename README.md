@@ -20,12 +20,15 @@ The system provides a complete command-line interface and a web application to p
 
 ## Repository Structure
 
+```
 job-shop-accounting-system/
 │
 ├── 1_database_setup/       # SQL scripts for DB creation
 ├── 2_java_console_app/     # Source for the Java console application
 ├── 3_jsp_web_app/          # Source for the JSP web application
 └── 4_project_report/       # The original PDF project report
+```
+
 
 
 ## Setup and Installation
